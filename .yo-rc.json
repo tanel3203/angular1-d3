@@ -1,0 +1,27 @@
+{
+  "generator-m-ionic": {
+    "answers": {
+      "appName": "CCB",
+      "appId": "ee.jedi.ee",
+      "ionicCss": true,
+      "bowerPackages": [
+        "angular-dynamic-locale#~0.1.27",
+        "angular-translate#~2.11.0",
+        "angular-translate-loader-static-files#~2.11.0",
+        "localforage#~1.4.0"
+      ],
+      "platforms": [
+        "android",
+        "windows",
+        "browser"
+      ],
+      "plugins": [
+        "cordova-plugin-device",
+        "cordova-plugin-splashscreen",
+        "cordova-plugin-statusbar"
+      ],
+      "appModule": "CCB",
+      "ecosystems": []
+    }
+  }
+}
